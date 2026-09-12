@@ -1,0 +1,6 @@
+{
+  "login": {"method":"POST","url":"http://localhost:8080/api/auth/login","body":{"username":"admin","password":"admin123"}},
+  "employee": {"method":"POST","url":"http://localhost:8080/api/employees","body":{"employeeNumber":"EMP-0001","firstName":"Ranajit","lastName":"Chowdhury","hourlyRate":18.55,"department":"Packaging","jobTitle":"Packaging Operator","healthDeduction":82.34,"traditional401kPct":5,"traditionalCatchUpPct":1,"rothPct":1,"rothCatchUpPct":1}},
+  "payroll": {"method":"POST","url":"http://localhost:8080/api/payroll/calculate","note":"Use employeeId returned by employee creation and the fields in PayrollRequest."
+  }
+}
