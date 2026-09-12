@@ -2,7 +2,7 @@
 
 A full-stack payroll platform built from the ground up — a Spring Boot REST API backed by MySQL/JPA, paired with a native JavaFX desktop client — and backed by a **79-test** automated QA suite (unit, service, REST-API/integration, and headless UI automation) wired into a GitHub Actions CI pipeline with Allure reporting.
 
-Where a typical QA-automation portfolio project (e.g. a Selenium/Cucumber harness driving an existing HRM demo) proves *"I can test a system someone else built,"* EPMS proves the other half of the job: **"I can build the system, then design and automate the tests that keep it honest."** See [How this compares to a pure test-automation project](#how-this-compares-to-a-pure-test-automation-project-eg-orangehrm-payroll-automation) below.
+Where a typical QA-automation portfolio project (e.g. a Selenium/Cucumber harness driving an existing HRM demo) proves *"I can test a system built before,"* EPMS proves the other half of the job: **"I can build the system, then design and automate the tests that keep it honest."** See [How this compares to a pure test-automation project](#how-this-compares-to-a-pure-test-automation-project-eg-orangehrm-payroll-automation) below.
 
 **Ranajit B Chowdhury** — QA Automation Engineer & Full-Stack Developer
 Test Automation Specialist · Java · Spring Boot · JavaFX · JUnit 5 · TestFX · Mockito
